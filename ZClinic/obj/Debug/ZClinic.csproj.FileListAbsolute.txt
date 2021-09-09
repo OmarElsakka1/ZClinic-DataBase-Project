@@ -1,0 +1,285 @@
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\bin\Debug\ZClinic.exe.config
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\bin\Debug\ZClinic.exe
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\bin\Debug\ZClinic.pdb
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\obj\Debug\ZClinic.csprojAssemblyReference.cache
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\obj\Debug\ZClinic.Form1.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\obj\Debug\ZClinic.Properties.Resources.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.GenerateResource.cache
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.CoreCompileInputs.cache
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\obj\Debug\ZClinic.exe
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\obj\Debug\ZClinic.pdb
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\obj\Debug\ZClinic.SignUp.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\obj\Debug\ZClinic.Medical_info.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\obj\Debug\ZClinic.AddChronic_disease.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\obj\Debug\ZClinic.Forget_Password.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\ZClinic\ZClinic\obj\Debug\ZClinic.NewPassword.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.AddChronic_disease.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.Appointment.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.ChangePassword.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.ContactDevelopers.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.Dashboard.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.Drugs.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.EditProfile.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.Forget_Password.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.Form1.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.Medical_Execuse.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.Medical_info.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.Medicens.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.MedicineOrder.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.NewPassword.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.OrderDrugs.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.Password.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.SignUp.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.Support.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.GenerateResource.cache
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\bin\Debug\ZClinic.exe.config
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\bin\Debug\ZClinic.exe
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\bin\Debug\ZClinic.pdb
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.Properties.Resources.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.CoreCompileInputs.cache
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.CopyComplete
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.exe
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.pdb
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuses.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuseAcceptingTemp.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuseAcceptedDeclined.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.BookAppointment.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentDoctor.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentDoctorMini.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\bin\Debug\XanderUI.dll
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.RequestMedicalExcuse.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.login.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.Settings.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinic\ZClinic\obj\Debug\ZClinic.csprojAssemblyReference.cache
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\bin\Debug\ZClinic.exe.config
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\bin\Debug\ZClinic.exe
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\bin\Debug\ZClinic.pdb
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\bin\Debug\XanderUI.dll
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.AddChronic_disease.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Appointment.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.ViewAppointments.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.BookAppointment.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.ChangePassword.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.ContactDevelopers.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Dashboard.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Drugs.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.login.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.RequestMedicalExcuse.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Settings.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentDoctor.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentDoctorMini.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentPatientcs.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuseAcceptedDeclined.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuseAcceptingTemp.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuses.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.EditProfile.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Forget_Password.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Form1.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Medical_Execuse.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Medical_info.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Medicens.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.MedicineOrder.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.NewPassword.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.OrderDrugs.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Password.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Properties.Resources.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.SignUp.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Support.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.GenerateResource.cache
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.CoreCompileInputs.cache
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.CopyComplete
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.exe
+D:\Nour\zewail\Cie y2 s2\Database\project\ZClinicNewNewNewNewNew 28-5-2021\ZClinic\ZClinic\obj\Debug\ZClinic.pdb
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\bin\Debug\ZClinic.exe.config
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\bin\Debug\ZClinic.exe
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\bin\Debug\ZClinic.pdb
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\bin\Debug\XanderUI.dll
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.csprojAssemblyReference.cache
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.AddChronic_disease.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Appointment.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.ViewAppointments.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.BookAppointment.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.ChangePassword.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.ContactDevelopers.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Dashboard.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Drugs.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.login.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.RequestMedicalExcuse.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Settings.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentDoctor.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentDoctorMini.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentPatientcs.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuseAcceptedDeclined.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuseAcceptingTemp.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuses.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.EditProfile.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Forget_Password.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Form1.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Medical_Execuse.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Medical_info.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Medicens.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.MedicineOrder.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.NewPassword.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.OrderDrugs.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Password.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Properties.Resources.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.SignUp.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Support.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.GenerateResource.cache
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.CoreCompileInputs.cache
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.CopyComplete
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.exe
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.pdb
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Login_Signup_MedicalInfo.SignUp.resources
+C:\Users\Omar El-Sakka\Desktop\Year2\Semster2\Database\Project\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Login_Signup_MedicalInfo.Medical_info.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\bin\Debug\ZClinic.exe.config
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\bin\Debug\ZClinic.exe
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\bin\Debug\ZClinic.pdb
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\bin\Debug\XanderUI.dll
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.csprojAssemblyReference.cache
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.AddChronic_disease.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Appointment.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.ViewAppointments.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.BookAppointment.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.ChangePassword.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.ContactDevelopers.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Dashboard.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Drugs.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.login.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.RequestMedicalExcuse.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Login_Signup_MedicalInfo.Medical_info.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Login_Signup_MedicalInfo.SignUp.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Settings.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentDoctor.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentDoctorMini.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentPatientcs.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuseAcceptedDeclined.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuseAcceptingTemp.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuses.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.EditProfile.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Forget_Password.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Form1.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Medical_Execuse.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Medical_info.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Medicens.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.MedicineOrder.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.NewPassword.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.OrderDrugs.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Password.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Properties.Resources.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.SignUp.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.Support.resources
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.GenerateResource.cache
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.CoreCompileInputs.cache
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.CopyComplete
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.exe
+C:\Users\Omar El-Sakka\Desktop\In Case\Final Version\ZClinic\ZClinic\obj\Debug\ZClinic.pdb
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\bin\Debug\ZClinic.exe
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\bin\Debug\ZClinic.pdb
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\bin\Debug\XanderUI.dll
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\bin\Debug\ZClinic.exe.config
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.AddChronic_disease.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Appointment.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.ViewAppointments.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.BookAppointment.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.ChangePassword.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.ContactDevelopers.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Hospital.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.ContinueDoctorSignUp.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.ContinueSignUp.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Dashboard.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.DrugsEntry.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Drugs.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.login.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.RequestMedicalExcuse.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Medical_info.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.SignUp.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Settings.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.SupportUser.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentDoctor.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentDoctorMini.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentPatientcs.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Comment.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuseAcceptedDeclined.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuseAcceptingTemp.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuses.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.EditProfile.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Forget_Password.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Form1.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Medicens.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.MedicineOrder.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.NewPassword.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.OrderDrugs.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Password.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Properties.Resources.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Support.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.GenerateResource.cache
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.CoreCompileInputs.cache
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.CopyComplete
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.exe
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.pdb
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.csprojAssemblyReference.cache
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.TeachingStuffMedicalExcuses.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.TeachingStuffMedicalControl.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Statistics.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.Admin.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.AdminDashboard.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.RevisedComments.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\sakka 31-5\ZClinic\ZClinic\obj\Debug\ZClinic.SupportIT.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\bin\Debug\ZClinic.exe.config
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\bin\Debug\ZClinic.exe
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\bin\Debug\ZClinic.pdb
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\bin\Debug\XanderUI.dll
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.csprojAssemblyReference.cache
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.AddChronic_disease.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Admin.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.AdminDashboard.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Appointment.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.ViewAppointments.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.BookAppointment.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.ChangePassword.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.ContactDevelopers.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Hospital.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.ContinueDoctorSignUp.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.ContinueSignUp.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Dashboard.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.DrugsEntry.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Drugs.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.login.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.RequestMedicalExcuse.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Medical_info.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.SignUp.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.RevisedComments.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Settings.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Statistics.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.SupportIT.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.SupportUser.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.TeachingStuffMedicalExcuses.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.TeachingStuffMedicalControl.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentDoctor.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentDoctorMini.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.AppointmentPatientcs.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Comment.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuseAcceptedDeclined.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuseAcceptingTemp.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.MedicalExcuses.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.EditProfile.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Forget_Password.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Form1.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Medicens.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.MedicineOrder.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.NewPassword.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.OrderDrugs.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Password.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Properties.Resources.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.Support.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.GenerateResource.cache
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.CoreCompileInputs.cache
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.csproj.CopyComplete
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.exe
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.pdb
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.ADMEP.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.TBM.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\obj\Debug\ZClinic.EmergencyForm.resources
+D:\Nour\zewail\Cie y2 s2\Database\project\Nour 4-6-2021\ZClinic\ZClinic\bin\Debug\QRCoder.dll

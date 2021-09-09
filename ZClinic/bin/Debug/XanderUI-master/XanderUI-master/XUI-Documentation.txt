@@ -1,0 +1,242 @@
+Control list-
+			BackgroundSleeper
+            Banner
+			BarGraph
+			BatteryPercentgeAPI
+			Button
+			Card
+			CheckBox
+			CircleProgressBar
+			Clock
+			ColorPane
+			ColorPicker
+			CustomGroupbox
+			CustomPictureBox
+			CustomToolStrip
+			ExtendedFSWatcher
+            FlatMenuStrip
+			FlatProgressBar
+			FlatTab
+			FormDesign
+			FormHandle
+			Gauge
+			GradientPanel
+			JoyStick
+			LineGraph
+			NavigationBar
+			ObjectAnimator
+			ObjectEllipse
+			PieGraph
+			Radio
+			Segment
+			Slider
+			SlidingPanel
+			SplashScreen
+			SuperButton
+			Switch
+			VolumeController
+			WeatherClient
+			WifiPercentageAPI
+			
+Extension methods-
+			IntRound
+
+>>>>>>>>>>>> Documentation and usage of the controls
+
+XUIEXTENDEDFSWATCHER
+	An extended version of FileSystemWatcher with various bug fixes, and additions.
+	To start the service, no more seting a bool, simply FsWatcher.StartService()
+	Same for stopping the service.
+	Ive also extended the buffer size to reduce running out of memory exceptions being thrown
+
+XUIOBJECTANIMATOR - 
+	You can either place XUIObjectAnimator on your form or declare one programatically
+
+	EG - 		
+		XUIObjectAnimator ObjectAnimator = new XUIObjectAnimator();
+
+	Syntax - ControlAnimator.StandardAnimate(3 args)
+	arg0 is the object to animate
+	arg1 is the animation to perform
+	arg2 is an int from 1-10 that declares the animation speed
+	NOTE: you can animate forms, control, panels
+
+	EG -
+		ObjectAnimator.StandardAnimate(myButton, XUI.XUIObjectAnimator.StandardAnimation.Hop, 5);
+		ObjectAnimator.StandardAnimate(myButton, XUI.XUIObjectAnimator.StandardAnimation.ShootLeft, 5);
+		ObjectAnimator.StandardAnimate(myButton, XUI.XUIObjectAnimator.StandardAnimation.ShootRight, 5);
+		ObjectAnimator.StandardAnimate(myButton, XUI.XUIObjectAnimator.StandardAnimation.SlideLeft, 5);
+		ObjectAnimator.StandardAnimate(myButton, XUI.XUIObjectAnimator.StandardAnimation.SlideRight, 5);
+		ObjectAnimator.StandardAnimate(myButton, XUI.XUIObjectAnimator.StandardAnimation.SlideUp, 5);
+		ObjectAnimator.StandardAnimate(myButton, XUI.XUIObjectAnimator.StandardAnimation.SlideDown, 5);
+		ObjectAnimator.StandardAnimate(myButton, XUI.XUIObjectAnimator.StandardAnimation.SlugLeft, 5);
+		ObjectAnimator.StandardAnimate(myButton, XUI.XUIObjectAnimator.StandardAnimation.SlugRight, 5);
+
+	Syntax - ControlAnimator.ColorAnimate(5 args)
+	arg0 is the object to animate
+	arg1 is the animation color
+	arg2 is the animation
+	arg3 is a bool that sets to object backcolor to the color of arg2 after animation if true
+	arg4 is an int from 1-10 that declares the animation speed
+	NOTE: you can animate forms, control, panels
+	
+	EG - 
+		ObjectAnimator.ColorAnimate(Form1, Color.DodgerBlue, XUI.XUIObjectAnimation.ColorAnimation.FillEllipse, true, 10);
+		ObjectAnimator.ColorAnimate(Form1, Color.DodgerBlue, XUI.XUIObjectAnimation.ColorAnimation.FillSquare, true, 10);
+		ObjectAnimator.ColorAnimate(Form1, Color.DodgerBlue, XUI.XUIObjectAnimation.ColorAnimation.SplitFill, true, 5);
+		ObjectAnimator.ColorAnimate(Form1, Color.DodgerBlue, XUI.XUIObjectAnimation.ColorAnimation.StripeFill, true, 5);
+		ObjectAnimator.ColorAnimate(Form1, Color.DodgerBlue, XUI.XUIObjectAnimation.ColorAnimation.SlideFill, true, 5);
+		
+	Syntax - ControlAnimator.FormAnimate(3 args)
+	arg0 is the form to animate
+	arg1 is the animation to perform
+	arg2 is an int from 1-10 that declares the animation speed
+	NOTE: This option is for form loading/leaving only
+
+	EG -
+		ObjectAnimator.FormAnimate(myButton, XUI.XUIObjectAnimator.FormAnimation.FadeIn, 5);
+		ObjectAnimator.FormAnimate(myButton, XUI.XUIObjectAnimator.FormAnimation.FadeOut, 5);
+	
+XUIBARGRAPH
+	A gorgeous bar graph with multi orientation abillity, styles like Flat, Material and Bootstrap aswell and VERY customizable
+	
+	Usage:
+	Create a list of int's and set xuiBarGraph.Items to the list
+	
+	EG -
+		    List<int> MyItems = new List<int>();
+            MyItems.Clear();
+            MyItems.Add(50);
+            MyItems.Add(75);
+            MyItems.Add(10);
+            xuiBarGraph1.Items = MyItems;
+	
+XUISPLASHSCREEN
+	A customizable splash screen control with ALOT of options, as this is a component you will need to trial and error the settings to suit your needs
+	
+	Usage:
+	After InitializeComponent() in mainform initialize the splash with the mainform as an arg
+	
+	EG -
+			xuiSplash1.initializeLoader(FindForm());
+			// or
+			xuiSplash1.initializeLoader(this);
+			// or
+			xuiSplash1.initializeLoader(myFormName);
+	
+XUILINEGRAPH
+	Yet another immaculate graph with alot of features
+	
+	Usage: same as bar graph
+	
+XUIBACKGROUNDSLEEPER
+	A control allowing you to delay execution without freezing the UI(Non async)
+	
+	Usage: 
+	BackgroundSleeper.sleep(Milliseconds)
+	
+	EG -
+		//Stop code execution for 3 seconds
+		BackgroundSleeper.Sleep(3000); 
+
+XUINAVIGATIONBAR
+	A navbar with multiple styles, based on a title, a left item and a right item, its completely customizable
+
+XUISEGMENT
+	A segment control as featured in the iOS an Android operating systems, multiple styles, selected item is based on index 0-no of items -1
+
+XUISLIDINGPANEL
+	An animated sliding panel control, simply set the collapse control and that control will stay visible, while all other controls become 
+	invisble when the slider is collapsed
+	
+XUIFORMHANDLE
+	Simply a handle linked to a control, your able to drag the form where you desire
+	
+XUIOBJECTELLIPSE
+	Adds rounded corners to a form or object
+	
+XUIPIEGRAPH
+	Once again, a beautiful graph
+	
+XUIJOYSTICK
+	A joystick control, your able to set the background image, joystick color, sensitivity, the object to move and if that object can leave the screen or not
+	Additionally you can detect the directions and ive added a OnDirectionChanged() event.
+	
+XUISWITCH
+	A switch control with lots of styles like iOS, Android and Flat, very customizable, similiar to a checkbox but much better looking
+	
+XUIBANNER
+	A banner control! finally.
+	
+XUIGAUGE
+	A simple guage control, Multiple styles and very customizable, very nice UI aswell if i dont say myself
+	
+XUIGRADIENTPANEL
+	A panel with a gradient background, your able to change the gradient orientation and style and multiple colors
+
+XUICOLORPANE
+	A material color pane with the best looking colors, also has SelectedColorChanged event
+	
+XUIVOLUMECONTROLLER
+	Yes, it seems as though this is the first volume control for winforms?
+	Set the volume, volume up, volume down and mute the volume with this
+	Ive also added VolumeChanged event.
+	
+XUIBATTERYPERCENTAGE
+	A component that returns the battery percentage
+	XUIBATTERYPERCENTAGE.Value() returns the value, the interval associated with the control is when the value is refreshed
+
+XUIWIFIPERCENTAGE
+	A component that returns the wifi percentage
+	XUIWIFIPERCENTAGE.Value() returns the value, the interval associated with the control is when the value is refreshed
+	
+XUIBUTTON
+	A button control with backcolor/forecolor changing on hovering and clicking and the elipse abillity
+	Also the abillity to choose the text alignment and add an image and also change the image position
+	
+XUICIRCLEPROGRESSBAR
+	A nice circle progress bar, alot of UI features including animation, Colors and text size, very smooth
+	Added event for percentageChanged aswell
+	
+XUICOLORPICKER
+	Finally, a color picker control. Your able to set the image and set and return the selected color.
+	Your also able to return the selected color as HEX(string)
+	
+XUICUSTOMPICTUREBOX
+	A custom picturebox with the abillity to be elipse, in an upcoming update it will feature the iOS parralax effect
+	
+XUICUSTOMTOOLSTRIP
+	A toolstrip with fixed border rendering
+	
+XUIFLATMENUSTRIP
+	A flat style menustrip with the abillity to change the hover and click item colors
+	
+XUIFLATPROGRESSBAR
+	A flat progress bar with multiple styles and options, styles include(Flat, Material and iOS)
+
+XUIFLATTAB
+	A flat style tab control, this tabcontrol contains the UI features everyone has been dying for within the tab control
+
+XUICHECKBOX
+	A checkbox control with iOS styles anf Flat styles, also supports changing color on hover
+	
+XUICLOCK
+	An good looking clock control, still yet to add some custom events but overall functional for UI
+	
+XUIRADIO
+	A radio control with iOS, Android and Flat styles, also supports changing color on hover
+	
+XUISLIDER
+	A slider control with MacOS, Windows10, Android, Flat nd Material styles, also has a feature called quickHopping
+	Enabling you to jump anywhere on the slider with 1 click
+	
+XUISUPERBUTTON
+	Exactly like the button control, but also like a radio
+
+XUISEGMENT
+	A segment control like in Android and IOS.
+	Supports multiple styles.
+
+XUINAVIGATIONBAR
+	A navbar control like in Android and IOS.
+	Supports multiple styles
