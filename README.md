@@ -1,6 +1,6 @@
 # ZClinic-DataBase-Project
 
-This is a database system for my university clinic                                                     
+This is a database system for my university clinic using C# for frontend and SQL for backend                                                  
 Using this application students, teaching staffs, and workers
 can ask for medical excuses, purchasing Drugs, organising appointments with physicians
 
