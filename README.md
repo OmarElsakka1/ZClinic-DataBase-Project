@@ -1,8 +1,8 @@
 # ZClinic-DataBase-Project
 
-This is a database system for my university clinic
-using this application the students, teaching staff, and worker
-can ask for medical excuses, purchasing Drugs, organising appointments
+This is a database system for my university clinic                                                     
+using this application students, teaching staffs, and workers
+can ask for medical excuses, purchasing Drugs, organising appointments with physicians
 
 login page
 
